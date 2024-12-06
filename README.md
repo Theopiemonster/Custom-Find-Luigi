@@ -25,5 +25,4 @@ Original images were from the Super Mario 64 DS, a game by Nintendo.
 
 Bugs/Suggestions: @TheOpieMonster on Twitter.  
 Credit is optional, but would be appreciated.  
-Mention me too if you want, I'd love to see what you guys make!  
-If you want you want to look inside and see how it works, the code is open source and available on my github
+Mention me too if you want, I'd love to see what you guys make!
