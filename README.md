@@ -14,7 +14,7 @@ Here is each one, and what it does:
 
 ------
 
-"windowSize": A list with two integer values. This controls the window's width and height. Default: [250, 250]
+"windowSize": A list with two integer values. This controls the window's width and height. Default: [250, 250]\n
 "fps": The game's FPS as an integer. Everything runs faster (including the icons). Lowering it can improve performance. Default: 30
 "images": A dictionary with a list of every image filename the game will use. Put the images in the images folder, otherwise it wont work.
 "wanted": The key name of the image you want to be wanted, only one will be made.
