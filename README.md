@@ -10,17 +10,6 @@ It's not playable, it's just for making your own versions of those videos.
 
 The settings for the game can be controlled using the settings.json file.
 Inside are a few options so you can adjust the game to your liking. 
-Here is each one, and what it does:
-
-------
-
-"windowSize": A list with two integer values. This controls the window's width and height. Default: [250, 250]
-"fps": The game's FPS as an integer. Everything runs faster (including the icons). Lowering it can improve performance. Default: 30
-"images": A dictionary with a list of every image filename the game will use. Put the images in the images folder, otherwise it wont work.
-"wanted": The key name of the image you want to be wanted, only one will be made.
-"scale": Float of the icon's scale. Default: 1.0
-"amount": The amount of icons the game generates. Default: 100
-"speed": The max speed that the icons go, it is randomized. Default: 2
 
 ---CREDITS---
 
