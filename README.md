@@ -1,7 +1,7 @@
 THIS MIGHT GIVE A FALSE POSITIVE FROM YOUR ANTIVIRUS
 Pyinstaller (the compiler I used) is known for giving false positives.
 
----HOW TO USE---
+#HOW TO USE
 
 MAKE SURE THE .EXE IS INSIDE THE FOLDER, OR ELSE IT WILL CRASH!
 
@@ -11,7 +11,7 @@ It's not playable, it's just for making your own versions of those videos.
 The settings for the game can be controlled using the settings.json file.
 Inside are a few options so you can adjust the game to your liking. 
 
----CREDITS---
+#CREDITS
 
 Here are the Twitter @s of the people who made this:
 
